@@ -15,7 +15,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>
-	  <p><img alt="The main picture of the keyboard" src="/{{ post.image }}"></img></p>
+	  &lt;p&gt;&lt;img alt="The main picture of the keyboard" src="/{{ post.image }}"&gt;&lt;/img&gt;&lt;/p&gt;
 	  {{ post.content | xml_escape }}
 	</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
