@@ -1,6 +1,7 @@
 name: "Keebs"
 title: "Keebs"
 description: "A showcase of different keebs I've designed and used"
+baseurl: "/keebs"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 collections:
