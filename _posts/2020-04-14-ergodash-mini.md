@@ -26,4 +26,11 @@ Github repo.
 Another challenge by switching to split-boards, are the ortholinear columns, that was a big change. And I'm still not
 sure which type of columns are best for me.
 
-Read more about Ergodash Mini over at [github/omkbd](https://github.com/omkbd/ErgoDash/tree/master/mini).
+## Get your own
+
+Not that easy to get your hands on, but there may be some Japanese site still selling it. Luckily it's an open source
+keyboard, meaning that you can find what you need to order a PCB from
+[github/omkbd](https://github.com/omkbd/ErgoDash/tree/master/mini). This is a more complex build, but most of the
+components are though hole (except the RGB-LEDs). There is sadly no English build guide for the mini, but you can follow
+the [regular one](https://github.com/omkbd/ErgoDash/blob/master/Doc/build-en.md), they are identical except for the top
+row.
