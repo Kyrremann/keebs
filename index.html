@@ -8,8 +8,8 @@ title: Home
       <h2><span>Designed by me</span></h2>
     </div>
     <div class="row">
-      {% for post in site.posts %}
-        {% if post.featured == true %}
+      {% for keyboard in site.keyboards %}
+        {% if keyboard.featured == true %}
           {% include featuredbox.html %}
         {% endif %}
      {% endfor %}
@@ -22,8 +22,8 @@ title: Home
     <h2><span>Other keyboards</span></h2>
   </div>
   <div class="row listrecent">
-    {% for post in site.posts %}
-      {% if post.featured != true %}
+    {% for keyboard in site.keyboards %}
+      {% if keyboard.featured != true %}
         {% include postbox.html %}
       {% endif %}
     {% endfor %}

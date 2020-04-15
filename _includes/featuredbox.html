@@ -4,8 +4,8 @@
       <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
         <div class="h-100">
           <div class="wrapthumbnail">
-            <a href="{{ site.baseurl }}{{ post.url }}">
-              <img class="featured-box-img-cover" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}">
+            <a href="{{ site.baseurl }}{{ keyboard.url }}">
+              <img class="featured-box-img-cover" src="{% if keyboard.image contains "://" %}{{ keyboard.image }}{% else %}{{ site.baseurl }}/{{ keyboard.image }}{% endif %}">
             </a>
           </div>
         </div>
@@ -15,14 +15,14 @@
           <div class="card">
             <div class="card-body">
               <h2 class="card-title">
-                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                {% if post.rating %}
+                <a class="text-dark" href="{{ site.baseurl }}{{ keyboard.url }}">{{ keyboard.title }}</a>
+                {% if keyboard.rating %}
                   <div class="mb-2 mt-2 font-weight-normal">
                     {% include star_rating_postbox.html %}
                   </div>
                 {% endif %}
               </h2>
-              <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
+              <h4 class="card-text">{{ keyboard.excerpt | strip_html | truncatewords:25 }}</h4>
             </div>
           </div>
         </div>

@@ -11,6 +11,9 @@ collections:
   pages:
     output: true
     permalink: /:title/
+  keyboards:
+    output: true
+    permalink: /:title/
 plugins:
   - jekyll-seo-tag
 markdown: kramdown
