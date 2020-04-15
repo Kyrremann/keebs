@@ -28,7 +28,7 @@ sure which type of columns are best for me.
 
 ## Get your own
 
-Not that easy to get your hands on, but there may be some Japanese site still selling it. Luckily it's an open source
+Not that easy to get your hands on, but there may be some Japanese site still selling it. Luckily it's an open-source
 keyboard, meaning that you can find what you need to order a PCB from
 [github/omkbd](https://github.com/omkbd/ErgoDash/tree/master/mini). This is a more complex build, but most of the
 components are though hole (except the RGB-LEDs). There is sadly no English build guide for the mini, but you can follow
