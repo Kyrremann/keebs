@@ -9,11 +9,13 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .mainheading {
     padding-top: 1rem;
+    text-decoration: none;
 }
 
 a {
     color: #00ab6b;
     transition: all 0.2s;
+    text-decoration: underline;
 }
 
 a:hover {
