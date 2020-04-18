@@ -15,6 +15,9 @@ this page, RoMac stands for `The Royal Macropad`.
 I also found out that the small acrylic plate that came with the macropad is supposed to be on top of the components and
 micro controller, that's why it's missing in my pictures. Fixed now, but didn't bother to take new pictures.
 
+One thing I would have done had I made the RoMac, is to move the push button from the bottom of the board, till the top,
+and put it on the underside. I think that would be more aesthetic pleasing.
+
 ## Get your own
 
 The RoMac is another board that I have that is sold out most of the places, but luckily it's also open-source. So you
