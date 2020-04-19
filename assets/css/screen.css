@@ -8,12 +8,14 @@ License: https://www.wowthemes.net/freebies-license/
     .container {max-width:80%;}
 }
 .mainheading {
-    padding: 1rem 0rem;
+    padding-top: 1rem;
+    text-decoration: none;
 }
 
 a {
     color: #00ab6b;
     transition: all 0.2s;
+    text-decoration: underline;
 }
 
 a:hover {
