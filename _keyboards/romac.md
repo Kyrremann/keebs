@@ -13,14 +13,14 @@ this page, RoMac stands for `The Royal Macropad`.
 ![The back side of the RoMac]({{ "assets/images/romac-back.png" | absolute_url }})
 
 I also found out that the small acrylic plate that came with the macropad is supposed to be on top of the components and
-micro controller, that's why it's missing in my pictures. Fixed now, but didn't bother to take new pictures.
+micro controller, that's why it's missing in my pictures. It's fixed now, but I didn't bother to take new pictures.
 
-One thing I would have done had I made the RoMac, is to move the push button from the bottom of the board, till the top,
-and put it on the underside. I think that would be more aesthetic pleasing.
+One thing I would have done had I designed the RoMac, is to move the push button from the bottom of the board to the top,
+and put it on the underside. I think that would be more aesthetically pleasing.
 
 ## Get your own
 
-The RoMac is another board that I have that is sold out most of the places, but luckily it's also open-source. So you
+The RoMac is another board that I have that is sold out most places. Luckily it's also open-source, so you
 can order yourself one, visit
 [github/TheRoyalSweatshirt](https://github.com/TheRoyalSweatshirt/The_Royal_Projects/tree/master/Complete%20Kits/The_RoMac_rev2.1)
-. There is also an extremely detailed [build guide](https://imgur.com/a/l24vgvC) (maybe to detailed?).
+. There is also an extremely detailed [build guide](https://imgur.com/a/l24vgvC) (maybe too detailed?).
