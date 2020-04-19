@@ -3,21 +3,52 @@ title: "Categories"
 layout: default
 permalink: "/categories.html"
 ---
-
 <div class="row listrecent">
-  {% for category in site.categories %}
-    <div class="section-title col-md-12 mt-4">
-      <h2 id="{{ category[0] | replace: " ","-" }}">Category <span class="text-capitalize">{{ category[0] }}</span></h2>
-    </div>
-    {% assign pages_list = category[1] %}
-    {% for post in pages_list %}
-      {% if post.title != null %}
-        {% if group == null or group == post.group %}
-          {% include postbox.html %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-    {% endfor %}
+  <div class="section-title col-md-12 mt-4">
+    <h2 id="split">Category <span class="text-capitalize">Split board</span></h2>
+  </div>
+  {% assign category = site.keyboards | where: "categories", "split" %}
+  {% for keyboard in category %}
+    {% include postbox.html %}
+  {% endfor %}
+
+  <div class="section-title col-md-12 mt-4">
+    <h2 id="macro">Category <span class="text-capitalize">Macropad</span></h2>
+  </div>
+  {% assign category = site.keyboards | where: "categories", "macro" %}
+  {% for keyboard in category %}
+    {% include postbox.html %}
+  {% endfor %}
+
+  <div class="section-title col-md-12 mt-4">
+    <h2 id="ergo">Category <span class="text-capitalize">ergo</span></h2>
+  </div>
+  {% assign category = site.keyboards | where: "categories", "ergo" %}
+  {% for keyboard in category %}
+    {% include postbox.html %}
+  {% endfor %}
+
+  <div class="section-title col-md-12 mt-4">
+    <h2 id="ortho">Category <span class="text-capitalize">Ortholinear</span></h2>
+  </div>
+  {% assign category = site.keyboards | where: "categories", "ortho" %}
+  {% for keyboard in category %}
+    {% include postbox.html %}
+  {% endfor %}
+
+  <div class="section-title col-md-12 mt-4">
+    <h2 id="40">Category <span class="text-capitalize">40%</span></h2>
+  </div>
+  {% assign category = site.keyboards | where: "categories", "40" %}
+  {% for keyboard in category %}
+    {% include postbox.html %}
+  {% endfor %}
+
+  <div class="section-title col-md-12 mt-4">
+    <h2 id="30">Category <span class="text-capitalize">30%</span></h2>
+  </div>
+  {% assign category = site.keyboards | where: "categories", "30" %}
+  {% for keyboard in category %}
+    {% include postbox.html %}
+  {% endfor %}
 </div>

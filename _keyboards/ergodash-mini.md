@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ergodash Mini"
-categories: [ '40', split, ergo ]
+categories: [ '40', split ]
 image: assets/images/ergodash-mini.png
 source: https://github.com/omkbd/ErgoDash/tree/master/mini
 ---

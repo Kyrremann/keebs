@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ginny
-categories: [ split, ergo ]
+categories: [ split ]
 image: assets/images/ginny.png
 source: https://www.gboards.ca/product/ginni
 ---

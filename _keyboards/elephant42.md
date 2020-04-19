@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Elephant42"
-categories: [ '40', split, ergo ]
+categories: [ '40', split ]
 image: assets/images/elephant42.png
 source: https://github.com/illness072/elephant42
 ---
