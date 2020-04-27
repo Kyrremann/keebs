@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Gherkin"
+categories: [ '30', ortho ]
+image: assets/images/gherkin.png
+source: http://www.40percent.club/2016/11/gherkin.html
+---
+
+The Gherkin was another board I really liked the look on when I bought it early in my keyboard career. And it took me
+over four months before I finished building it. I'm using 40% keyboards daily, but 30% is another beast to handle. And
+before I can properly use it I need to print out the keymap, or write the keymap on some blank spare keycaps. A strange
+thing with the default keymap for the Gherkin is that it come with no GUI/windows/super button. Not sure why, but need
+to add that for my usage at least.
+
+![The back side of the Gherkin]({{ "assets/images/gherkin-back.png" | absolute_url }})
+
+The main reason for it taking so long before I managed to finish, is that I decided to use Kailh Mid-Profile
+Switches for this build. One, it took over a month to get the switches, two I had to make a new switch plate for the
+case, as the Low-Profile switches are smaller then regular switches.
+
+One thing to note is that it's small, and cramped. At least for me who is getting really comfortable with the spacing
+between my split boards. No more crouched shoulders for me. Untill I want to play with the Gherkin again.
+
+## Get your own
+
+It's a pretty easy build, as all of the components are through-hole, and there are at least
+[one](https://mechboards.co.uk/shop/kits/ortholinear-kits/gherkin-kit/) store that has the Gherkin in stock. Or you can
+order the PCB your self, as it's open-sourced. Head over to
+[github/di0ib](https://github.com/di0ib/Misc/tree/master/16mm) for the necessary files. There isn't one build "guide",
+but luckily tons of build "logs", [40percent.club](http://www.40percent.club/2017/11/gherkin-links.html) has a list of
+links to follow.
