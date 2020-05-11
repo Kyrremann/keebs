@@ -1,0 +1,38 @@
+---
+layout: post
+title: Kyria
+categories: [ split, '40' ]
+image: assets/images/kyria.png
+source: https://splitkb.com/
+---
+
+While I was trying to learn to use my [Ergodash Mini]({{ site.baseurl }}/ergodash-mini) I started to look at other split
+board, becase I was unsure if the layout till the Mini was what I wanted. A lot of time was spent looking at the Kyria,
+and I even printed out the layout, to get a fell of how it was. And now, after nearly three months I have my own Kyria.
+
+I have tried out the Kyria for about a week now, using it at work, programming. And sadly, I don't think the layout is
+for me. The main issue is the thumb cluster. It's too long, or maybe wide is a better description. I always have to
+stretch my thumb, and I often felt that there where to much distance between my tab-key and super-key. Another issue is
+the double buttons on the thumb cluster, a main button, and a different button above. I have the same issue with the
+Mini (and a lot of other boards), where I can reach the upper thumb button without twisting my hand.
+
+![The back side of the Kyria]({{ "assets/images/kyria-back.png" | absolute_url }})
+
+A cool and different feature of the Kyria is the OLED-screen. Specifically the resolution. It doubles the high of a
+screen, so instead of the normal 128x32, is is 128x64. Making it more suitible to show things in landscape mode. It took
+some time to figure out how to make my own images for the screen, but togheter with
+[Jakobkg](https://gist.github.com/jakobkg) we did it!  Check out his
+[image2oled.py](https://gist.github.com/jakobkg/189b52f99f409740152a81fb07b9abfc) if you want to try it yourself. There
+is even a preview mode if you don't have a screen to use.
+
+## Get your own
+
+Thomas Baart the creator of the Kyria has a rather extensive support for the keyboard. More than what I've seen from
+other vendors. It's also an easy build, as there is through-holes components, and a good
+[build guide](https://docs.splitkb.com/hc/en-us/categories/360002241559-Build-Guides)! Everything can be bought from his
+[splitkb.com](https://splitkb.com/) site. 
+
+For now he only sells Kyrua and Corne, but I hope that he will expand his portfolio, especially with a site called
+splitkb.com. Would be cool with a European proxy for a load of different split-boards.
+
+![A different side of the Kyria]({{ "assets/images/kyria-side.png" | absolute_url }})
