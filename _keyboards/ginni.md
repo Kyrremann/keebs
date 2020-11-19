@@ -24,6 +24,6 @@ everything needs to be soldered by you, not that hard, but there are some small 
 components are soldered, and you just need to add some switches and keycaps. Lastly you have ready made, where everyhing is
 done for you (the easiest choice).
 
-He has also made a [Ginny Heavy](https://www.gboards.ca/product/ginny-heavy), weighing 1KG, made of industrial steel! Pretty cool!
+She has also made a [Ginny Heavy](https://www.gboards.ca/product/ginny-heavy), weighing 1KG, made of industrial steel! Pretty cool!
 
 ![The front side of the Ginny]({{ "assets/images/ginny-split.png" | absolute_url }})
