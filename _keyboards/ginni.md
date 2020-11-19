@@ -18,7 +18,7 @@ I mainly bought this for the aesthetic, but it turned out to be a fun soldering 
 
 ## Get your own
 
-Ginny is made by Jeremy Bernhardt aka [Germ](https://twitter.com/gHeavyIndustry) aka
+Ginny is made by Jane Bernhardt aka [Germ](https://twitter.com/gHeavyIndustry) aka
 [g Heavy Industries](https://www.gboards.ca/). You can buy the Ginny as a kit, partial, or ready made! A kit means that
 everything needs to be soldered by you, not that hard, but there are some small components. Partial is when the
 components are soldered, and you just need to add some switches and keycaps. Lastly you have ready made, where everyhing is
